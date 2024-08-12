@@ -1,0 +1,44 @@
+{
+    "name": "K Code Reveiw V1.2",
+    "envVariables": [
+        {
+            "key": "API_TOKEN",
+            "value": "eBRe2KQ0WCtG69ggrwfH9Mlt2cIGJoEpRqYtMW5UJjk.vAOS4IQjzGrIl5Cv70K6uFmiSuDd-FYI9V6S7kGnSHw",
+            "variableType": "env",
+            "hint": "Codesence api token 4 Kotesh new outlook",
+            "scope": "prePopulated",
+            "group": "",
+            "propagateValue": false,
+            "vNameSpace": [
+                "611ab13d-5355-58fc-b364-66ed09d349db"
+            ],
+            "isSecured": false
+        },
+        {
+            "key": "CODESENSE_BASE_URL",
+            "value": "https://api.codescene.io",
+            "variableType": "env",
+            "hint": "",
+            "scope": "prePopulated",
+            "group": "",
+            "propagateValue": false,
+            "vNameSpace": [
+                "611ab13d-5355-58fc-b364-66ed09d349db"
+            ],
+            "isSecured": false
+        },
+        {
+            "key": "PROJECT_ID",
+            "value": "1234",
+            "variableType": "env",
+            "hint": "Codesense configured Project ID",
+            "scope": "prePopulated",
+            "group": "",
+            "propagateValue": false,
+            "vNameSpace": [
+                "611ab13d-5355-58fc-b364-66ed09d349db"
+            ],
+            "isSecured": false
+        }
+    ]
+}
